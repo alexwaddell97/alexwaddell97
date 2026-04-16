@@ -18,10 +18,10 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="50" y="30" fill="#c9d1d9">
 <tspan x="195" y="30">alex@waddell</tspan> -———————————————————————————————————————————-—-
-<tspan x="195" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">iOS 26.5, MacOS Tahoe 26.4.1</tspan>
+<tspan x="195" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">iOS 26.5, MacOS Tahoe 26.4.1</tspan>
 <tspan x="195" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ......................................... </tspan><tspan class="value" id="age_data">28 years</tspan>
 <tspan x="195" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Layers Studio</tspan>
-<tspan x="195" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Lead Developer</tspan>
+<tspan x="195" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Lead Developer</tspan>
 <tspan x="195" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">VSCode</tspan>
 <tspan x="195" y="150" class="cc">. </tspan>
 <tspan x="195" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Typescript, React, C#</tspan>
